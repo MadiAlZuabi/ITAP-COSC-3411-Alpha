@@ -1,2 +1,2 @@
-# ITAP-COSC-3411-Alpha
+# ITAP-COSC-3411-Gamma
 Calculator
